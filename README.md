@@ -1,4 +1,4 @@
- [![MasterHead](https://cdn.evrimagaci.org/BKuLdOW07w0lc-F4FUgH7TS7fhs=/evrimagaci.org%2Fpublic%2Fcontent_media%2F88cb59d4b224bc32773bbfd062a16c32.jpg)
+ ![MasterHead](https://cdn.evrimagaci.org/BKuLdOW07w0lc-F4FUgH7TS7fhs=/evrimagaci.org%2Fpublic%2Fcontent_media%2F88cb59d4b224bc32773bbfd062a16c32.jpg)
 
 <h1 align="center">Merhaba 👋, Ben Kıvanç</h1>
 <h3 align="center">Robotlarla ilgilenmeyi seviyorum</h3>
